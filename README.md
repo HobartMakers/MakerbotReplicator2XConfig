@@ -1,4 +1,9 @@
 # MakerbotReplicator2XConfig
+For Makerbot Replicator 2X.  
+Possibly compatible with other older Makerbot Replicator series machines as well. YMMV.  
+Requires:  
+* Octoprint (eg. OctiPi on a Raspberry Pi)
+* Ultimaker Cura (Windows/Mac/Linux)
 
 ## Setup Procedure
 
