@@ -27,8 +27,8 @@ Others default
 ### Print bed & build volume
 Form factor: rectangule  
 Origin: Center  
-heated bed: ✅ 
-Heated chamber: ❎ 
+heated bed: ✅  
+Heated chamber: ❎  
 Width: 200mm  
 Depth: 120mm  
 Height: 110mm 
