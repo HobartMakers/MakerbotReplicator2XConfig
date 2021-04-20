@@ -2,7 +2,7 @@
 
 ## Setup Procedure
 
-1 .Set up OctoPrint server (eg. on Raspberry Pi)  
+1. Set up OctoPrint server (eg. on Raspberry Pi)  
 2. Connect via web interface, set up user, etc  
 3. Install GPX plugin  
 4. Install Ultimaker Cura on host machine  
