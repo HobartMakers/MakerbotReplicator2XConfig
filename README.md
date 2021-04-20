@@ -10,7 +10,7 @@
 * Set up new printer in Cura  
 
 ## Cura Printer Settings
-**Printer Settings**
+**Printer Settings**  
 Width: 220mm  
 Depth: 145mm  
 Height: 150mm  
